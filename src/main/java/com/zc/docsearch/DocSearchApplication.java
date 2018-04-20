@@ -2,7 +2,6 @@ package com.zc.docsearch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
 public class DocSearchApplication {
 

@@ -69,4 +69,7 @@ public class Constant {
             this.name = name;
         }
     }
+
+    public static final String AUTHID = "";
+    public static final String FU_URL = "http://121.41.173.11:30004/api/AFu_U8/router.aspx";
 }
